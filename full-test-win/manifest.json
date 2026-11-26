@@ -1,0 +1,9 @@
+{
+  "light": {
+    "morning": {
+      "floors": "./light_morning_floors.jpg?v=116966",
+      "shell": "./light_morning_shell.jpg?v=292731",
+      "props": "./light_morning_props.jpg?v=232248"
+    }
+  }
+}
