@@ -1,9 +1,9 @@
 {
 "light": {
 "morning": {
-"floors": "./light_morning_floors.jpg?v=112812",
-"shell": "./light_morning_shell.jpg?v=292133",
-"props": "./light_morning_props.jpg?v=210259"
+"floors": "./light_morning_floors.jpg?v=106483",
+"shell": "./light_morning_shell.jpg?v=289958",
+"props": "./light_morning_props.jpg?v=218985"
 },
 "sunset": {
 "floors": "./light_sunset_floors.jpg?v=100673",
