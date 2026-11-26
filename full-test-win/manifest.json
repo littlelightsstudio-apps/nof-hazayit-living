@@ -1,9 +1,66 @@
 {
-  "light": {
-    "morning": {
-      "floors": "./light_morning_floors.jpg?v=116966",
-      "shell": "./light_morning_shell.jpg?v=292731",
-      "props": "./light_morning_props.jpg?v=232248"
-    }
-  }
+"light": {
+"morning": {
+"floors": "./light_morning_floors.jpg?v=112812",
+"shell": "./light_morning_shell.jpg?v=292133",
+"props": "./light_morning_props.jpg?v=228443"
+},
+"sunset": {
+"floors": "./light_sunset_floors.jpg?v=100673",
+"shell": "./light_sunset_shell.jpg?v=290516",
+"props": "./light_sunset_props.jpg?v=214184"
+},
+"night": {
+"floors": "./light_night_floors.jpg?v=54047",
+"shell": "./light_night_shell.jpg?v=185202",
+"props": "./light_night_props.jpg?v=165658"
+},
+"noon": {
+"shell": "./light_noon_shell.jpg?v=289365"
+}
+},
+"med": {
+"noon": {
+"floors": "./med_noon_floors.jpg?v=122347",
+"shell": "./med_noon_shell.jpg?v=298598",
+"props": "./med_noon_props.jpg?v=235360"
+},
+"sunset": {
+"floors": "./med_sunset_floors.jpg?v=106846",
+"shell": "./med_sunset_shell.jpg?v=296263",
+"props": "./med_sunset_props.jpg?v=221360"
+},
+"morning": {
+"floors": "./med_morning_floors.jpg?v=121434",
+"shell": "./med_morning_shell.jpg?v=301172",
+"props": "./med_morning_props.jpg?v=240915"
+},
+"night": {
+"floors": "./med_night_floors.jpg?v=59844",
+"shell": "./med_night_shell.jpg?v=189342",
+"props": "./med_night_props.jpg?v=169053"
+}
+},
+"dark": {
+"noon": {
+"floors": "./dark_noon_floors.jpg?v=118541",
+"shell": "./dark_noon_shell.jpg?v=264138",
+"props": "./dark_noon_props.jpg?v=162240"
+},
+"sunset": {
+"floors": "./dark_sunset_floors.jpg?v=93818",
+"shell": "./dark_sunset_shell.jpg?v=236719",
+"props": "./dark_sunset_props.jpg?v=142678"
+},
+"morning": {
+"floors": "./dark_morning_floors.jpg?v=117288",
+"shell": "./dark_morning_shell.jpg?v=270177",
+"props": "./dark_morning_props.jpg?v=171101"
+},
+"night": {
+"floors": "./dark_night_floors.jpg?v=45362",
+"shell": "./dark_night_shell.jpg?v=155473",
+"props": "./dark_night_props.jpg?v=135836"
+}
+}
 }
